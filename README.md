@@ -6,7 +6,7 @@ Comparing customer sentiment between two major European fintech apps using real 
 Scrapes public app reviews for N26 and Revolut, runs sentiment analysis using VADER, and compares complaint patterns between the two companies.
 
 ## Dashboard
-![Dashboard](screenshots/screenshot01fintech.png)
+![Dashboard](screenshots/Screenshot01fintech.png)
 
 ## Data
 - 500 reviews per app (1,000 total), pulled via Google Play Store (Android only — see Limitations)
